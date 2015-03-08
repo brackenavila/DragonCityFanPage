@@ -3,7 +3,7 @@ CACHE MANIFEST
 
 CACHE:
 css/DC.css
-../lbs/jquery-2.x.js
+js/jquery-2.x.js
 js/index.js
 js/worker.js
 js/dr.js
