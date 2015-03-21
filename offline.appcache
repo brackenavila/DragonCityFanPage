@@ -1,11 +1,11 @@
 CACHE MANIFEST
-#13.9.18 11:32
+#15.3.21 15:55
 
 CACHE:
 css/DC.css
 js/jquery-2.x.js
-#js/index.js
-#js/worker.js
+js/index.js
+js/worker.js
 js/dr.js
 img/0.jpg
 img/1.jpg
@@ -322,5 +322,3 @@ img/391.jpg
 img/398.jpg
 img/no.jpg
 img/none.jpg
-NETWORK:
-*
